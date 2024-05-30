@@ -1,0 +1,2 @@
+Hola mundo desde master
+Se pide al menos dos fusiones sin conflicto (para aprobar) o 4 fusiones sin conflicto (para promocionar).
