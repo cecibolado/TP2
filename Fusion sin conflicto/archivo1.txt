@@ -1,0 +1,5 @@
+En una carpeta llamada ‘fusión sin conflicto’ agregue archivos y realice los commits necesarios
+para crear fusiones de ramas sin conflicto.
+
+Estas son ramas que tienen un commit ancestro en
+común pero no generan conflictos en el contenido de los archivos.
