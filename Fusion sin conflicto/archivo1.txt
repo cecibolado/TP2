@@ -1,0 +1,2 @@
+En una carpeta llamada ‘fusión sin conflicto’ agregue archivos y realice los commits necesarios
+para crear fusiones de ramas sin conflicto.
