@@ -1,0 +1,5 @@
+Agregue un ejercicio por commit, luego puede agregar otros commit si hace falta, por ejemplo para corregir algún ejercicio si
+encontró un error. 
+
+Se evaluaran únicamente los commits con la fecha anterior a la de presentación
+del práctico.
