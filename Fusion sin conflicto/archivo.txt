@@ -1,1 +1,3 @@
 Hola Mundo desde rama master
+Crear un nuevo repositorio en su cuenta de GitHub con el nombre ‘tp2’
+En este repositorio deben estar incluidos el resto de los ejercicios de este práctico.
