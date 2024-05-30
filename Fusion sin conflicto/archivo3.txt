@@ -1,2 +1,4 @@
 En una carpeta llamada ‘fusión con conflicto’ agregue archivos y realice los commits necesarios
 para crear fusiones de ramas con conflicto.
+
+Estas son ramas que tienen un commit ancestro en común pero no generan conflictos en el contenido de los archivos.
