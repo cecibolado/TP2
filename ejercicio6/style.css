@@ -1,0 +1,68 @@
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing:border-box;
+    background-color: rgb(161, 236, 233) ;
+}
+.contenedor{
+    display: center; 
+    direction: center;
+    margin: 20px;
+    border-radius: 20px; 
+    padding: 20px; 
+    background-color: rgb(161, 236, 233); 
+    color: rgb(8, 8, 8); 
+    font-weight: bold;
+}
+h1 {
+    position:absolute;
+    width: 100%;
+    margin-top: 0;
+    background-color:rgb(161, 236, 233) ;
+    padding: 10px;
+    text-align: center;
+}
+
+.formulario-estilo {
+    display: center; 
+    direction: center;
+    margin: 20px;
+    border-radius: 20px; 
+    padding: 20px; 
+    background-color:rgb(161, 236, 233); 
+    color: rgb(17, 17, 17); 
+    font-weight: bold;
+}
+
+div{
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+    flex-basis: 5px;
+}
+input{
+    border-bottom: 0.5px;
+    border-color: black;
+    border-radius: 5px;
+    padding-inline: 5px;
+    padding-top: 15px;
+}
+
+button{
+    border-bottom: 0.5px;
+    border-color: black;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    text-align: center;
+    padding-top: 15px;
+}
+.error {
+    color: red;
+    border-style:dotted;
+    text-align: center;
+}
+.success {
+    color: green;
+    border-style:double;
+    text-align: center;
+}
