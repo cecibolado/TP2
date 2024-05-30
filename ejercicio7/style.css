@@ -23,3 +23,8 @@ h1 {
   background-color: #d5b6b6;
   color: #92232e;
 }
+button{
+  border-radius: 7px;
+  background-color: #da81e6;
+  color: black;
+}
