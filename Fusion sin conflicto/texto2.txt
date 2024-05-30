@@ -1,0 +1,2 @@
+ Se evaluaran únicamente los commits con la fecha anterior a la de presentación
+del práctico.
